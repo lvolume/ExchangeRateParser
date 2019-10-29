@@ -1,0 +1,1298 @@
+1572240735248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO3y3wO"
+
+(firefox-esr:30140): Gtk-WARNING **: 08:32:17.925: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:30140): Gtk-WARNING **: 08:32:17.925: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572240744002	Marionette	INFO	Listening on port 42099
+1572240744115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6327917463104831&output=html&h=90&slotname=4984593372&adk=1758422695&adf=2410344536&w=728&lmt=1572240758&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fkurs.kz%2F&flash=0&wgl=1&adsid=NT&dt=1572240756252&bpp=10&bdt=7826&fdt=2251&idt=2251&shv=r20191024&cbv=r20190131&saldr=aa&abxe=1&prev_fmts=728x90%2C0x0&nras=1&correlator=264687563702&frm=20&pv=1&ga_vid=1498222405.1572240756&ga_sid=1572240756&ga_hid=1606381578&ga_fc=1&icsg=42003134&dssz=24&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=741&u_aw=1316&u_cd=24&u_nplug=0&u_nmime=0&adx=136&ady=729&biw=1302&bih=610&scr_x=0&scr_y=0&oid=3&pvsid=3646099440194756&pem=589&rx=0&eae=0&fc=896&brdim=%2C%2C50%2C27%2C1316%2C27%2C1316%2C709%2C1316%2C610&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=2&uci=a!2&xpc=9ep4JNErIm&p=https%3A//kurs.kz&dtd=2295, line 1: ReferenceError: buildAdSlot is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6327917463104831&output=html&h=90&slotname=4984593372&adk=1758422695&adf=2410344536&w=728&lmt=1572240758&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fkurs.kz%2F&flash=0&wgl=1&adsid=NT&dt=1572240756252&bpp=10&bdt=7826&fdt=2251&idt=2251&shv=r20191024&cbv=r20190131&saldr=aa&abxe=1&prev_fmts=728x90%2C0x0&nras=1&correlator=264687563702&frm=20&pv=1&ga_vid=1498222405.1572240756&ga_sid=1572240756&ga_hid=1606381578&ga_fc=1&icsg=42003134&dssz=24&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=741&u_aw=1316&u_cd=24&u_nplug=0&u_nmime=0&adx=136&ady=729&biw=1302&bih=610&scr_x=0&scr_y=0&oid=3&pvsid=3646099440194756&pem=589&rx=0&eae=0&fc=896&brdim=%2C%2C50%2C27%2C1316%2C27%2C1316%2C709%2C1316%2C610&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=2&uci=a!2&xpc=9ep4JNErIm&p=https%3A//kurs.kz&dtd=2295, line 1: TypeError: _.y is not a function
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6327917463104831&output=html&h=90&slotname=4984593372&adk=1758422695&adf=2410344536&w=728&lmt=1572240758&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fkurs.kz%2F&flash=0&wgl=1&adsid=NT&dt=1572240756252&bpp=10&bdt=7826&fdt=2251&idt=2251&shv=r20191024&cbv=r20190131&saldr=aa&abxe=1&prev_fmts=728x90%2C0x0&nras=1&correlator=264687563702&frm=20&pv=1&ga_vid=1498222405.1572240756&ga_sid=1572240756&ga_hid=1606381578&ga_fc=1&icsg=42003134&dssz=24&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=741&u_aw=1316&u_cd=24&u_nplug=0&u_nmime=0&adx=136&ady=729&biw=1302&bih=610&scr_x=0&scr_y=0&oid=3&pvsid=3646099440194756&pem=589&rx=0&eae=0&fc=896&brdim=%2C%2C50%2C27%2C1316%2C27%2C1316%2C709%2C1316%2C610&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=2&uci=a!2&xpc=9ep4JNErIm&p=https%3A//kurs.kz&dtd=2295, line 1: ReferenceError: init_icr is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6327917463104831&output=html&h=90&slotname=4984593372&adk=1758422695&adf=2410344536&w=728&lmt=1572240758&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fkurs.kz%2F&flash=0&wgl=1&adsid=NT&dt=1572240756252&bpp=10&bdt=7826&fdt=2251&idt=2251&shv=r20191024&cbv=r20190131&saldr=aa&abxe=1&prev_fmts=728x90%2C0x0&nras=1&correlator=264687563702&frm=20&pv=1&ga_vid=1498222405.1572240756&ga_sid=1572240756&ga_hid=1606381578&ga_fc=1&icsg=42003134&dssz=24&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=741&u_aw=1316&u_cd=24&u_nplug=0&u_nmime=0&adx=136&ady=729&biw=1302&bih=610&scr_x=0&scr_y=0&oid=3&pvsid=3646099440194756&pem=589&rx=0&eae=0&fc=896&brdim=%2C%2C50%2C27%2C1316%2C27%2C1316%2C709%2C1316%2C610&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=2&uci=a!2&xpc=9ep4JNErIm&p=https%3A//kurs.kz&dtd=2295, line 1: ReferenceError: buildImageAd is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6327917463104831&output=html&h=90&slotname=4984593372&adk=1758422695&adf=2410344536&w=728&lmt=1572240758&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fkurs.kz%2F&flash=0&wgl=1&adsid=NT&dt=1572240756252&bpp=10&bdt=7826&fdt=2251&idt=2251&shv=r20191024&cbv=r20190131&saldr=aa&abxe=1&prev_fmts=728x90%2C0x0&nras=1&correlator=264687563702&frm=20&pv=1&ga_vid=1498222405.1572240756&ga_sid=1572240756&ga_hid=1606381578&ga_fc=1&icsg=42003134&dssz=24&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=741&u_aw=1316&u_cd=24&u_nplug=0&u_nmime=0&adx=136&ady=729&biw=1302&bih=610&scr_x=0&scr_y=0&oid=3&pvsid=3646099440194756&pem=589&rx=0&eae=0&fc=896&brdim=%2C%2C50%2C27%2C1316%2C27%2C1316%2C709%2C1316%2C610&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=2&uci=a!2&xpc=9ep4JNErIm&p=https%3A//kurs.kz&dtd=2295, line 1: TypeError: _.q is not a function
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6327917463104831&output=html&h=90&slotname=4984593372&adk=1758422695&adf=2410344536&w=728&lmt=1572240758&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fkurs.kz%2F&flash=0&wgl=1&adsid=NT&dt=1572240756252&bpp=10&bdt=7826&fdt=2251&idt=2251&shv=r20191024&cbv=r20190131&saldr=aa&abxe=1&prev_fmts=728x90%2C0x0&nras=1&correlator=264687563702&frm=20&pv=1&ga_vid=1498222405.1572240756&ga_sid=1572240756&ga_hid=1606381578&ga_fc=1&icsg=42003134&dssz=24&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=741&u_aw=1316&u_cd=24&u_nplug=0&u_nmime=0&adx=136&ady=729&biw=1302&bih=610&scr_x=0&scr_y=0&oid=3&pvsid=3646099440194756&pem=589&rx=0&eae=0&fc=896&brdim=%2C%2C50%2C27%2C1316%2C27%2C1316%2C709%2C1316%2C610&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=2&uci=a!2&xpc=9ep4JNErIm&p=https%3A//kurs.kz&dtd=2295, line 1: ReferenceError: registerAd is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6327917463104831&output=html&h=90&slotname=6600927374&adk=2731593832&adf=2629796103&w=728&lmt=1572240758&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fkurs.kz%2F&flash=0&wgl=1&adsid=NT&dt=1572240756125&bpp=44&bdt=7699&fdt=2147&idt=2148&shv=r20191024&cbv=r20190131&saldr=aa&abxe=1&correlator=264687563702&frm=20&pv=2&ga_vid=1498222405.1572240756&ga_sid=1572240756&ga_hid=1606381578&ga_fc=1&icsg=8448702&dssz=23&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=741&u_aw=1316&u_cd=24&u_nplug=0&u_nmime=0&adx=287&ady=10&biw=1302&bih=610&scr_x=0&scr_y=0&oid=3&pvsid=3646099440194756&pem=589&rx=0&eae=0&fc=896&brdim=%2C%2C50%2C27%2C1316%2C27%2C1316%2C709%2C1316%2C610&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=QsM4hocqZo&p=https%3A//kurs.kz&dtd=2244, line 1: ReferenceError: buildAdSlot is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6327917463104831&output=html&h=90&slotname=6600927374&adk=2731593832&adf=2629796103&w=728&lmt=1572240758&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fkurs.kz%2F&flash=0&wgl=1&adsid=NT&dt=1572240756125&bpp=44&bdt=7699&fdt=2147&idt=2148&shv=r20191024&cbv=r20190131&saldr=aa&abxe=1&correlator=264687563702&frm=20&pv=2&ga_vid=1498222405.1572240756&ga_sid=1572240756&ga_hid=1606381578&ga_fc=1&icsg=8448702&dssz=23&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=741&u_aw=1316&u_cd=24&u_nplug=0&u_nmime=0&adx=287&ady=10&biw=1302&bih=610&scr_x=0&scr_y=0&oid=3&pvsid=3646099440194756&pem=589&rx=0&eae=0&fc=896&brdim=%2C%2C50%2C27%2C1316%2C27%2C1316%2C709%2C1316%2C610&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=QsM4hocqZo&p=https%3A//kurs.kz&dtd=2244, line 1: TypeError: _.y is not a function
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6327917463104831&output=html&h=90&slotname=6600927374&adk=2731593832&adf=2629796103&w=728&lmt=1572240758&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fkurs.kz%2F&flash=0&wgl=1&adsid=NT&dt=1572240756125&bpp=44&bdt=7699&fdt=2147&idt=2148&shv=r20191024&cbv=r20190131&saldr=aa&abxe=1&correlator=264687563702&frm=20&pv=2&ga_vid=1498222405.1572240756&ga_sid=1572240756&ga_hid=1606381578&ga_fc=1&icsg=8448702&dssz=23&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=741&u_aw=1316&u_cd=24&u_nplug=0&u_nmime=0&adx=287&ady=10&biw=1302&bih=610&scr_x=0&scr_y=0&oid=3&pvsid=3646099440194756&pem=589&rx=0&eae=0&fc=896&brdim=%2C%2C50%2C27%2C1316%2C27%2C1316%2C709%2C1316%2C610&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=QsM4hocqZo&p=https%3A//kurs.kz&dtd=2244, line 1: ReferenceError: init_icr is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6327917463104831&output=html&h=90&slotname=6600927374&adk=2731593832&adf=2629796103&w=728&lmt=1572240758&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fkurs.kz%2F&flash=0&wgl=1&adsid=NT&dt=1572240756125&bpp=44&bdt=7699&fdt=2147&idt=2148&shv=r20191024&cbv=r20190131&saldr=aa&abxe=1&correlator=264687563702&frm=20&pv=2&ga_vid=1498222405.1572240756&ga_sid=1572240756&ga_hid=1606381578&ga_fc=1&icsg=8448702&dssz=23&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=741&u_aw=1316&u_cd=24&u_nplug=0&u_nmime=0&adx=287&ady=10&biw=1302&bih=610&scr_x=0&scr_y=0&oid=3&pvsid=3646099440194756&pem=589&rx=0&eae=0&fc=896&brdim=%2C%2C50%2C27%2C1316%2C27%2C1316%2C709%2C1316%2C610&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=QsM4hocqZo&p=https%3A//kurs.kz&dtd=2244, line 1: ReferenceError: buildImageAd is not defined
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6327917463104831&output=html&h=90&slotname=6600927374&adk=2731593832&adf=2629796103&w=728&lmt=1572240758&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fkurs.kz%2F&flash=0&wgl=1&adsid=NT&dt=1572240756125&bpp=44&bdt=7699&fdt=2147&idt=2148&shv=r20191024&cbv=r20190131&saldr=aa&abxe=1&correlator=264687563702&frm=20&pv=2&ga_vid=1498222405.1572240756&ga_sid=1572240756&ga_hid=1606381578&ga_fc=1&icsg=8448702&dssz=23&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=741&u_aw=1316&u_cd=24&u_nplug=0&u_nmime=0&adx=287&ady=10&biw=1302&bih=610&scr_x=0&scr_y=0&oid=3&pvsid=3646099440194756&pem=589&rx=0&eae=0&fc=896&brdim=%2C%2C50%2C27%2C1316%2C27%2C1316%2C709%2C1316%2C610&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=QsM4hocqZo&p=https%3A//kurs.kz&dtd=2244, line 1: TypeError: _.q is not a function
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6327917463104831&output=html&h=90&slotname=6600927374&adk=2731593832&adf=2629796103&w=728&lmt=1572240758&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fkurs.kz%2F&flash=0&wgl=1&adsid=NT&dt=1572240756125&bpp=44&bdt=7699&fdt=2147&idt=2148&shv=r20191024&cbv=r20190131&saldr=aa&abxe=1&correlator=264687563702&frm=20&pv=2&ga_vid=1498222405.1572240756&ga_sid=1572240756&ga_hid=1606381578&ga_fc=1&icsg=8448702&dssz=23&mdo=0&mso=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=741&u_aw=1316&u_cd=24&u_nplug=0&u_nmime=0&adx=287&ady=10&biw=1302&bih=610&scr_x=0&scr_y=0&oid=3&pvsid=3646099440194756&pem=589&rx=0&eae=0&fc=896&brdim=%2C%2C50%2C27%2C1316%2C27%2C1316%2C709%2C1316%2C610&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=16&bc=29&ifi=1&uci=a!1&xpc=QsM4hocqZo&p=https%3A//kurs.kz&dtd=2244, line 1: ReferenceError: registerAd is not defined
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/6372477441838940160/index.html#t=4462999774979352094&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 37: ReferenceError: Enabler is not defined
+console.log: Accessibility service init or shutdown observer does not exist.
+1572321685549	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerJhrUZ"
+
+(firefox-esr:7854): Gtk-WARNING **: 07:01:30.931: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:7854): Gtk-WARNING **: 07:01:30.931: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572321699412	Marionette	INFO	Listening on port 36115
+1572321699474	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 7854, Gecko_IOThread] WARNING: pipe error (68): Соединение разорвано другой стороной: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1572322892213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2pyxrd"
+
+(firefox-esr:8228): Gtk-WARNING **: 07:21:37.437: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:8228): Gtk-WARNING **: 07:21:37.437: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572322904552	Marionette	INFO	Listening on port 33865
+1572322904594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/devtools.js, line 636: TypeError: inspector.selection is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/webconsole/new-console-output/new-console-output-wrapper.js, line 390: TypeError: this.jsterm.hud is null
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 71: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 71: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 71: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 71: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 71: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 118: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 118: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 118: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 118: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 118: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 118: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 153: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 153: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js, line 153: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js line 5 > Function, line 71: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js line 5 > Function, line 71: unreachable code after return statement
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://account.mail.ru
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js line 5 > Function, line 71: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js line 5 > Function, line 118: unreachable code after return statement
+JavaScript warning: https://img.imgsmail.ru/signup/1566230667/en_US/signup-app.min.js line 5 > Function, line 118: unreachable code after return statement
+JavaScript error: https://temp-mail.org/js/api_requests.js?v=5, line 15: Error: [object Object]
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js, line 13: NS_ERROR_FAILURE: 
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js, line 13: NS_ERROR_FAILURE: 
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/createjs_2015.11.26_54e1c3722102182bb133912ad4442e19_min.js, line 13: NS_ERROR_FAILURE: 
+[Parent 8228, Gecko_IOThread] WARNING: pipe error (100): Соединение разорвано другой стороной: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1572325740662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7ba0BZ"
+
+(firefox-esr:9211): Gtk-WARNING **: 08:09:10.143: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:9211): Gtk-WARNING **: 08:09:10.144: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572325759052	Marionette	INFO	Listening on port 39577
+1572325759215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/71753e08-986b-4ffd-ab25-3bdba6514c65, line 0: Successfully compiled asm.js code (total compilation time 8ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/71753e08-986b-4ffd-ab25-3bdba6514c65, line 0: Successfully compiled asm.js code (total compilation time 22ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/71753e08-986b-4ffd-ab25-3bdba6514c65, line 0: Successfully compiled asm.js code (total compilation time 145ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 98ms; stored in cache)
+1572325976351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegXB9Vv"
+
+(firefox-esr:9402): Gtk-WARNING **: 08:12:58.831: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:9402): Gtk-WARNING **: 08:12:58.831: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572325986008	Marionette	INFO	Listening on port 45439
+1572325986106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/e20961d3-0fd0-4230-87ce-c87053f92eb6, line 0: Successfully compiled asm.js code (total compilation time 7ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/e20961d3-0fd0-4230-87ce-c87053f92eb6, line 0: Successfully compiled asm.js code (total compilation time 21ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/e20961d3-0fd0-4230-87ce-c87053f92eb6, line 0: Successfully compiled asm.js code (total compilation time 138ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 73ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1328: TypeError: currentPanel is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+1572326484009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAeCjR9"
+
+(firefox-esr:9684): Gtk-WARNING **: 08:21:26.134: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:9684): Gtk-WARNING **: 08:21:26.134: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572326491704	Marionette	INFO	Listening on port 36129
+1572326491774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/50e5ace2-24d5-42db-83e2-c6c9b3630a8f, line 0: Successfully compiled asm.js code (total compilation time 9ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/50e5ace2-24d5-42db-83e2-c6c9b3630a8f, line 0: Successfully compiled asm.js code (total compilation time 20ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/50e5ace2-24d5-42db-83e2-c6c9b3630a8f, line 0: Successfully compiled asm.js code (total compilation time 94ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 61ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572326633271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2P3jnG"
+
+(firefox-esr:9888): Gtk-WARNING **: 08:23:55.204: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:9888): Gtk-WARNING **: 08:23:55.205: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572326640121	Marionette	INFO	Listening on port 36597
+1572326640216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/67471d6a-6b6d-4022-af2b-24e1ff8ba0d9, line 0: Successfully compiled asm.js code (total compilation time 9ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/67471d6a-6b6d-4022-af2b-24e1ff8ba0d9, line 0: Successfully compiled asm.js code (total compilation time 24ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/67471d6a-6b6d-4022-af2b-24e1ff8ba0d9, line 0: Successfully compiled asm.js code (total compilation time 118ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 54ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572326799478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQGrUxM"
+
+(firefox-esr:10089): Gtk-WARNING **: 08:26:41.381: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:10089): Gtk-WARNING **: 08:26:41.381: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572326806574	Marionette	INFO	Listening on port 39461
+1572326806639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/c6ebae06-685b-4bf7-aab0-484f1bba49b1, line 0: Successfully compiled asm.js code (total compilation time 11ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/c6ebae06-685b-4bf7-aab0-484f1bba49b1, line 0: Successfully compiled asm.js code (total compilation time 26ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/c6ebae06-685b-4bf7-aab0-484f1bba49b1, line 0: Successfully compiled asm.js code (total compilation time 101ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 52ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572327287062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenaqLlT"
+
+(firefox-esr:10368): Gtk-WARNING **: 08:34:49.027: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:10368): Gtk-WARNING **: 08:34:49.027: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572327293943	Marionette	INFO	Listening on port 41807
+1572327294012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 58ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/8b1f238f-424a-4d2b-b383-474760f80750, line 0: Successfully compiled asm.js code (total compilation time 7ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/8b1f238f-424a-4d2b-b383-474760f80750, line 0: Successfully compiled asm.js code (total compilation time 21ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/8b1f238f-424a-4d2b-b383-474760f80750, line 0: Successfully compiled asm.js code (total compilation time 120ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572327478020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet3vgLz"
+
+(firefox-esr:10574): Gtk-WARNING **: 08:38:00.039: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:10574): Gtk-WARNING **: 08:38:00.040: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572327485171	Marionette	INFO	Listening on port 38041
+1572327485264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/81b63119-02ec-448f-8248-dda1d18fdf3e, line 0: Successfully compiled asm.js code (total compilation time 8ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/81b63119-02ec-448f-8248-dda1d18fdf3e, line 0: Successfully compiled asm.js code (total compilation time 18ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/81b63119-02ec-448f-8248-dda1d18fdf3e, line 0: Successfully compiled asm.js code (total compilation time 134ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 72ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572327606733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletzcEk3"
+
+(firefox-esr:10763): Gtk-WARNING **: 08:40:08.667: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:10763): Gtk-WARNING **: 08:40:08.667: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572327613561	Marionette	INFO	Listening on port 41361
+1572327613676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/85fc5683-07b4-4ee7-9162-22d17472a959, line 0: Successfully compiled asm.js code (total compilation time 7ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/85fc5683-07b4-4ee7-9162-22d17472a959, line 0: Successfully compiled asm.js code (total compilation time 21ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/85fc5683-07b4-4ee7-9162-22d17472a959, line 0: Successfully compiled asm.js code (total compilation time 89ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 66ms; stored in cache)
+1572327926568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGGINEg"
+
+(firefox-esr:10995): Gtk-WARNING **: 08:45:28.606: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:10995): Gtk-WARNING **: 08:45:28.607: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572327934332	Marionette	INFO	Listening on port 38187
+1572327934412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/61549ffc-e05c-412e-9031-54d115f5df02, line 0: Successfully compiled asm.js code (total compilation time 8ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/61549ffc-e05c-412e-9031-54d115f5df02, line 0: Successfully compiled asm.js code (total compilation time 24ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/61549ffc-e05c-412e-9031-54d115f5df02, line 0: Successfully compiled asm.js code (total compilation time 107ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 50ms; stored in cache)
+1572328005227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOmLH5i"
+
+(firefox-esr:11162): Gtk-WARNING **: 08:46:49.211: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:11162): Gtk-WARNING **: 08:46:49.211: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572328020745	Marionette	INFO	Listening on port 44739
+1572328020874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/ccbc5c89-d680-4019-93a0-648a93ea34ed, line 0: Successfully compiled asm.js code (total compilation time 33ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/ccbc5c89-d680-4019-93a0-648a93ea34ed, line 0: Successfully compiled asm.js code (total compilation time 26ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/ccbc5c89-d680-4019-93a0-648a93ea34ed, line 0: Successfully compiled asm.js code (total compilation time 143ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 71ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1572335818812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOXAvxn"
+
+(firefox-esr:12744): Gtk-WARNING **: 10:57:02.462: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:12744): Gtk-WARNING **: 10:57:02.462: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572335828599	Marionette	INFO	Listening on port 45403
+1572335828678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/ccf6ec88-687a-4dff-91f0-12661a9149d8, line 0: Successfully compiled asm.js code (total compilation time 8ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/ccf6ec88-687a-4dff-91f0-12661a9149d8, line 0: Successfully compiled asm.js code (total compilation time 27ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/ccf6ec88-687a-4dff-91f0-12661a9149d8, line 0: Successfully compiled asm.js code (total compilation time 143ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 50ms; stored in cache)
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://mail.protonmail.com
+JavaScript error: , line 0: uncaught exception: TypeError: Line must be greater than or equal to 1, got 0
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1743:11
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:569:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1743, column: 11
+console.error: "Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null\nStack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1743:11\nsend/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:569:13\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1743, column: 11"
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1743:11
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:569:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1743, column: 11
+console.error: "Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null\nStack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1743:11\nsend/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:569:13\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1743, column: 11"
+console.warn: "Got a mutation for an unexpected actor: server1.conn0.child1/domnode211, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js 309 WalkerFront<.getMutations</<
+resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js 928 process
+resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js 812 walkerLoop
+resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js 748 scheduleWalkerLoop/<
+console.warn: "Got a mutation for an unexpected actor: server1.conn0.child1/domnode209, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js 309 WalkerFront<.getMutations</<
+resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js 928 process
+resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js 812 walkerLoop
+resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js 748 scheduleWalkerLoop/<
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1572337980727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWDhKIo"
+
+(firefox-esr:13204): Gtk-WARNING **: 11:33:07.941: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:13204): Gtk-WARNING **: 11:33:07.941: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572337994842	Marionette	INFO	Listening on port 43285
+1572337994914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 13204, Gecko_IOThread] WARNING: pipe error (68): Соединение разорвано другой стороной: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1572338638383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJfmNk3"
+
+(firefox-esr:13502): Gtk-WARNING **: 11:44:00.918: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:13502): Gtk-WARNING **: 11:44:00.919: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572338646144	Marionette	INFO	Listening on port 35931
+1572338646267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+1572338704121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMx1RPM"
+
+(firefox-esr:13665): Gtk-WARNING **: 11:45:06.265: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:13665): Gtk-WARNING **: 11:45:06.265: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572338716366	Marionette	INFO	Listening on port 35033
+1572338716427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 13665, Gecko_IOThread] WARNING: pipe error (84): Соединение разорвано другой стороной: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 13545, Chrome_ChildThread] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1572339011420	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFWcOO8"
+
+(firefox-esr:13882): Gtk-WARNING **: 11:50:15.286: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:13882): Gtk-WARNING **: 11:50:15.287: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572339021408	Marionette	INFO	Listening on port 37987
+1572339021522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode719"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode718"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode721"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode720"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode723"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode722"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode725"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode724"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode764"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode765"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode766"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode767"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode768"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode769"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode770"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode771"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+1572339450144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePIMPfq"
+
+(firefox-esr:14146): Gtk-WARNING **: 11:57:32.098: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:14146): Gtk-WARNING **: 11:57:32.098: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572339456954	Marionette	INFO	Listening on port 36163
+1572339457001	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1572339707779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiRb7W6"
+
+(firefox-esr:14338): Gtk-WARNING **: 12:01:49.846: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:14338): Gtk-WARNING **: 12:01:49.846: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572339714796	Marionette	INFO	Listening on port 43511
+1572339714858	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1572339846295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLDDgN8"
+
+(firefox-esr:14582): Gtk-WARNING **: 12:04:08.248: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:14582): Gtk-WARNING **: 12:04:08.248: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572339853186	Marionette	INFO	Listening on port 42817
+1572339853262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1572340457107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletMzLrl"
+
+(firefox-esr:16763): Gtk-WARNING **: 12:14:19.393: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:16763): Gtk-WARNING **: 12:14:19.393: Theme parsing error: <data>:1:77: Expected ')' in color definition
+console.log: Accessibility service init or shutdown observer does not exist.
+1572340464951	Marionette	INFO	Listening on port 42013
+1572340465059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+1572340841395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefEzTOR"
+
+(firefox-esr:16990): Gtk-WARNING **: 12:20:43.858: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:16990): Gtk-WARNING **: 12:20:43.858: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572340850328	Marionette	INFO	Listening on port 40915
+1572340850374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/e0a4756a-b0e6-431b-987f-cec8e4f36180, line 0: Successfully compiled asm.js code (total compilation time 29ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/e0a4756a-b0e6-431b-987f-cec8e4f36180, line 0: Successfully compiled asm.js code (total compilation time 25ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/e0a4756a-b0e6-431b-987f-cec8e4f36180, line 0: Successfully compiled asm.js code (total compilation time 142ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 113ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1572341110246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePlX5hZ"
+
+(firefox-esr:17189): Gtk-WARNING **: 12:25:13.426: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:17189): Gtk-WARNING **: 12:25:13.426: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572341121707	Marionette	INFO	Listening on port 40559
+1572341121846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/76bf04d7-7459-4e79-8392-b0b699552a08, line 0: Successfully compiled asm.js code (total compilation time 10ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/76bf04d7-7459-4e79-8392-b0b699552a08, line 0: Successfully compiled asm.js code (total compilation time 13ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/76bf04d7-7459-4e79-8392-b0b699552a08, line 0: Successfully compiled asm.js code (total compilation time 136ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 87ms; stored in cache)
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://mail.protonmail.com
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1572341436147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIjQFCc"
+
+(firefox-esr:17385): Gtk-WARNING **: 12:30:38.439: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:17385): Gtk-WARNING **: 12:30:38.440: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572341444816	Marionette	INFO	Listening on port 42829
+1572341444895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/af62fe18-1a9e-421d-b4d2-3dcaa9a382df, line 0: Successfully compiled asm.js code (total compilation time 10ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/af62fe18-1a9e-421d-b4d2-3dcaa9a382df, line 0: Successfully compiled asm.js code (total compilation time 28ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/af62fe18-1a9e-421d-b4d2-3dcaa9a382df, line 0: Successfully compiled asm.js code (total compilation time 251ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 96ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572341530918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMoPUu7"
+
+(firefox-esr:17544): Gtk-WARNING **: 12:32:13.152: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:17544): Gtk-WARNING **: 12:32:13.152: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572341539054	Marionette	INFO	Listening on port 36169
+1572341539168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/f326ac1a-e365-4fe6-8dc0-f99907906951, line 0: Successfully compiled asm.js code (total compilation time 12ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/f326ac1a-e365-4fe6-8dc0-f99907906951, line 0: Successfully compiled asm.js code (total compilation time 37ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/f326ac1a-e365-4fe6-8dc0-f99907906951, line 0: Successfully compiled asm.js code (total compilation time 166ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 59ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1572342000697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHtf2ex"
+
+(firefox-esr:17763): Gtk-WARNING **: 12:40:02.579: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:17763): Gtk-WARNING **: 12:40:02.580: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572342007849	Marionette	INFO	Listening on port 33793
+1572342007940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/5439a767-1b4e-4094-8fc4-e07f5c84429d, line 0: Successfully compiled asm.js code (total compilation time 8ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/5439a767-1b4e-4094-8fc4-e07f5c84429d, line 0: Successfully compiled asm.js code (total compilation time 23ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/5439a767-1b4e-4094-8fc4-e07f5c84429d, line 0: Successfully compiled asm.js code (total compilation time 134ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 66ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572342152190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecVOu5T"
+
+(firefox-esr:17933): Gtk-WARNING **: 12:42:34.277: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:17933): Gtk-WARNING **: 12:42:34.277: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572342159466	Marionette	INFO	Listening on port 33257
+1572342159541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/7063fef9-fcca-47cb-8966-4533b211486a, line 0: Successfully compiled asm.js code (total compilation time 14ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/7063fef9-fcca-47cb-8966-4533b211486a, line 0: Successfully compiled asm.js code (total compilation time 22ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/7063fef9-fcca-47cb-8966-4533b211486a, line 0: Successfully compiled asm.js code (total compilation time 153ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 68ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1572342333983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile32fg5M"
+
+(firefox-esr:18108): Gtk-WARNING **: 12:45:35.927: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:18108): Gtk-WARNING **: 12:45:35.927: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572342341413	Marionette	INFO	Listening on port 33127
+1572342341523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 72ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/2da2b092-4896-4013-88ab-195ff85c8f29, line 0: Successfully compiled asm.js code (total compilation time 9ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/2da2b092-4896-4013-88ab-195ff85c8f29, line 0: Successfully compiled asm.js code (total compilation time 23ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/2da2b092-4896-4013-88ab-195ff85c8f29, line 0: Successfully compiled asm.js code (total compilation time 127ms; stored in cache)
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode168"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode350"
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1572343339857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZC58W0"
+
+(firefox-esr:18405): Gtk-WARNING **: 13:02:22.461: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:18405): Gtk-WARNING **: 13:02:22.461: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572343347794	Marionette	INFO	Listening on port 37081
+1572343347935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 67ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/10dbb618-f35a-4c04-8c44-deff8b5969c9, line 0: Successfully compiled asm.js code (total compilation time 13ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/10dbb618-f35a-4c04-8c44-deff8b5969c9, line 0: Successfully compiled asm.js code (total compilation time 23ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/10dbb618-f35a-4c04-8c44-deff8b5969c9, line 0: Successfully compiled asm.js code (total compilation time 142ms; stored in cache)
+1572343377047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFgkuec"
+
+(firefox-esr:18547): Gtk-WARNING **: 13:02:59.193: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:18547): Gtk-WARNING **: 13:02:59.193: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572343384582	Marionette	INFO	Listening on port 42771
+1572343384702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: Accessibility service init or shutdown observer does not exist.
+1572343766792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoBUn7x"
+
+(firefox-esr:18814): Gtk-WARNING **: 13:09:29.140: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:18814): Gtk-WARNING **: 13:09:29.141: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572343774843	Marionette	INFO	Listening on port 39527
+1572343774954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/d137ce9e-6275-44e3-8d90-d4e5c6e6b176, line 0: Successfully compiled asm.js code (total compilation time 8ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/d137ce9e-6275-44e3-8d90-d4e5c6e6b176, line 0: Successfully compiled asm.js code (total compilation time 19ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/d137ce9e-6275-44e3-8d90-d4e5c6e6b176, line 0: Successfully compiled asm.js code (total compilation time 142ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 75ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572343961353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBLJNcM"
+
+(firefox-esr:18983): Gtk-WARNING **: 13:12:43.457: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:18983): Gtk-WARNING **: 13:12:43.457: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572343968725	Marionette	INFO	Listening on port 33807
+1572343968808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 134ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/10e480c8-f828-413f-b271-187cdb4500ae, line 0: Successfully compiled asm.js code (total compilation time 8ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/10e480c8-f828-413f-b271-187cdb4500ae, line 0: Successfully compiled asm.js code (total compilation time 32ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/10e480c8-f828-413f-b271-187cdb4500ae, line 0: Successfully compiled asm.js code (total compilation time 207ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572344150592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1ze13r"
+
+(firefox-esr:19166): Gtk-WARNING **: 13:15:52.832: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:19166): Gtk-WARNING **: 13:15:52.832: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572344158053	Marionette	INFO	Listening on port 40899
+1572344158137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/067e664d-f528-4c0c-ad49-da5917703beb, line 0: Successfully compiled asm.js code (total compilation time 15ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/067e664d-f528-4c0c-ad49-da5917703beb, line 0: Successfully compiled asm.js code (total compilation time 26ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/067e664d-f528-4c0c-ad49-da5917703beb, line 0: Successfully compiled asm.js code (total compilation time 153ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 117ms; stored in cache)
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1743:11
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:569:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1743, column: 11
+console.error: "Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null\nStack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1743:11\nsend/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:569:13\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1743, column: 11"
+console.log: Accessibility service init or shutdown observer does not exist.
+1572344546260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNcEM1C"
+
+(firefox-esr:19360): Gtk-WARNING **: 13:22:28.232: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:19360): Gtk-WARNING **: 13:22:28.232: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572344553581	Marionette	INFO	Listening on port 46005
+1572344553626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/6439e9dc-22b7-47bc-9723-926e879e8c4f, line 0: Successfully compiled asm.js code (total compilation time 10ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/6439e9dc-22b7-47bc-9723-926e879e8c4f, line 0: Successfully compiled asm.js code (total compilation time 25ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/6439e9dc-22b7-47bc-9723-926e879e8c4f, line 0: Successfully compiled asm.js code (total compilation time 215ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 73ms; stored in cache)
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode96"
+console.error: "Got a removal of an actor we didn't know about: server1.conn0.child1/domnode96"
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode237"
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1572344968640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileujolJp"
+
+(firefox-esr:19585): Gtk-WARNING **: 13:29:30.674: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:19585): Gtk-WARNING **: 13:29:30.674: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572344975816	Marionette	INFO	Listening on port 42993
+1572344975887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/3fda120a-bc67-44cc-84c7-df740ad4a84c, line 0: Successfully compiled asm.js code (total compilation time 8ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/3fda120a-bc67-44cc-84c7-df740ad4a84c, line 0: Successfully compiled asm.js code (total compilation time 22ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/3fda120a-bc67-44cc-84c7-df740ad4a84c, line 0: Successfully compiled asm.js code (total compilation time 99ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 63ms; stored in cache)
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js, line 418: TypeError: node.offsetParent is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js, line 418: TypeError: node.offsetParent is null
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1572345288144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZXWGBG"
+
+(firefox-esr:19802): Gtk-WARNING **: 13:34:50.238: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:19802): Gtk-WARNING **: 13:34:50.238: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572345295909	Marionette	INFO	Listening on port 36117
+1572345295986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/1a32afb6-51ea-4d07-b971-cfd1773f09d9, line 0: Successfully compiled asm.js code (total compilation time 8ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/1a32afb6-51ea-4d07-b971-cfd1773f09d9, line 0: Successfully compiled asm.js code (total compilation time 28ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/1a32afb6-51ea-4d07-b971-cfd1773f09d9, line 0: Successfully compiled asm.js code (total compilation time 137ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 86ms; stored in cache)
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode94"
+console.log: Accessibility service init or shutdown observer does not exist.
+1572345511178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefCIO78"
+
+(firefox-esr:19996): Gtk-WARNING **: 13:38:33.312: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:19996): Gtk-WARNING **: 13:38:33.312: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572345518765	Marionette	INFO	Listening on port 39141
+1572345518839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 64ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/86e34491-1891-43bd-abf9-e016ede41d18, line 0: Successfully compiled asm.js code (total compilation time 29ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/86e34491-1891-43bd-abf9-e016ede41d18, line 0: Successfully compiled asm.js code (total compilation time 19ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/86e34491-1891-43bd-abf9-e016ede41d18, line 0: Successfully compiled asm.js code (total compilation time 184ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572346192879	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE4jQAc"
+
+(firefox-esr:20284): Gtk-WARNING **: 13:49:55.444: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:20284): Gtk-WARNING **: 13:49:55.444: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572346201506	Marionette	INFO	Listening on port 35763
+1572346201563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 54ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/00ba07ad-ddd9-4f9e-9f46-753c96fed076, line 0: Successfully compiled asm.js code (total compilation time 10ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/00ba07ad-ddd9-4f9e-9f46-753c96fed076, line 0: Successfully compiled asm.js code (total compilation time 36ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/00ba07ad-ddd9-4f9e-9f46-753c96fed076, line 0: Successfully compiled asm.js code (total compilation time 150ms; stored in cache)
+1572346555963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8tZQCB"
+
+(firefox-esr:20474): Gtk-WARNING **: 13:55:58.277: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:20474): Gtk-WARNING **: 13:55:58.277: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572346564626	Marionette	INFO	Listening on port 37345
+1572346564734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 57ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/06b82557-270b-4ac9-bbd7-883b0e45245d, line 0: Successfully compiled asm.js code (total compilation time 14ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/06b82557-270b-4ac9-bbd7-883b0e45245d, line 0: Successfully compiled asm.js code (total compilation time 30ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/06b82557-270b-4ac9-bbd7-883b0e45245d, line 0: Successfully compiled asm.js code (total compilation time 166ms; stored in cache)
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://mail.protonmail.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://mail.protonmail.com
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1572346987891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHY0HEP"
+
+(firefox-esr:20691): Gtk-WARNING **: 14:03:12.342: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:20691): Gtk-WARNING **: 14:03:12.343: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572346998442	Marionette	INFO	Listening on port 33519
+1572346998554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 65ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/caa62686-ad26-4d3a-ac98-e2d2e8d5cff3, line 0: Successfully compiled asm.js code (total compilation time 11ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/caa62686-ad26-4d3a-ac98-e2d2e8d5cff3, line 0: Successfully compiled asm.js code (total compilation time 20ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/caa62686-ad26-4d3a-ac98-e2d2e8d5cff3, line 0: Successfully compiled asm.js code (total compilation time 197ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572347143185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOz1EQ3"
+
+(firefox-esr:20858): Gtk-WARNING **: 14:05:45.248: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:20858): Gtk-WARNING **: 14:05:45.248: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572347150597	Marionette	INFO	Listening on port 34495
+1572347150650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/c4c5e504-6e0e-4639-8022-b9b427480c9e, line 0: Successfully compiled asm.js code (total compilation time 8ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/c4c5e504-6e0e-4639-8022-b9b427480c9e, line 0: Successfully compiled asm.js code (total compilation time 23ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/c4c5e504-6e0e-4639-8022-b9b427480c9e, line 0: Successfully compiled asm.js code (total compilation time 111ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 74ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572347789940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHAadoe"
+
+(firefox-esr:21112): Gtk-WARNING **: 14:16:32.113: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:21112): Gtk-WARNING **: 14:16:32.113: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572347797072	Marionette	INFO	Listening on port 41849
+1572347797185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 53ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/0aec259d-fc70-4438-a440-cda9ea079028, line 0: Successfully compiled asm.js code (total compilation time 10ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/0aec259d-fc70-4438-a440-cda9ea079028, line 0: Successfully compiled asm.js code (total compilation time 26ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/0aec259d-fc70-4438-a440-cda9ea079028, line 0: Successfully compiled asm.js code (total compilation time 123ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572348105073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemEo0sv"
+
+(firefox-esr:21317): Gtk-WARNING **: 14:21:47.075: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:21317): Gtk-WARNING **: 14:21:47.075: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572348112216	Marionette	INFO	Listening on port 40025
+1572348112332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/96c56813-8554-431f-91f4-a344abb7b80f, line 0: Successfully compiled asm.js code (total compilation time 10ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/96c56813-8554-431f-91f4-a344abb7b80f, line 0: Successfully compiled asm.js code (total compilation time 21ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/96c56813-8554-431f-91f4-a344abb7b80f, line 0: Successfully compiled asm.js code (total compilation time 132ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 91ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572382698646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea7H8AD"
+
+(firefox-esr:24550): Gtk-WARNING **: 23:58:26.967: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:24550): Gtk-WARNING **: 23:58:26.967: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572382714872	Marionette	INFO	Listening on port 46317
+1572382714947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 24550, Gecko_IOThread] WARNING: pipe error (105): Соединение разорвано другой стороной: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1572382837050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewASa0w"
+
+(firefox-esr:24744): Gtk-WARNING **: 00:00:39.255: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:24744): Gtk-WARNING **: 00:00:39.255: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572382844754	Marionette	INFO	Listening on port 45085
+1572382844809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 24787, Chrome_ChildThread] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24744, Gecko_IOThread] WARNING: pipe error (59): Соединение разорвано другой стороной: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Parent 24744, Gecko_IOThread] WARNING: pipe error (103): Соединение разорвано другой стороной: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1572382972236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezhmg1K"
+
+(firefox-esr:24924): Gtk-WARNING **: 00:02:54.531: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:24924): Gtk-WARNING **: 00:02:54.531: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572382980258	Marionette	INFO	Listening on port 34111
+1572382980311	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1572382998337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCA6eBm"
+
+(firefox-esr:25075): Gtk-WARNING **: 00:03:20.247: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:25075): Gtk-WARNING **: 00:03:20.247: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572383005162	Marionette	INFO	Listening on port 44527
+1572383005277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 90ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/e437443b-3e7c-44c1-a60d-baecac0e531c, line 0: Successfully compiled asm.js code (total compilation time 11ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/e437443b-3e7c-44c1-a60d-baecac0e531c, line 0: Successfully compiled asm.js code (total compilation time 31ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/e437443b-3e7c-44c1-a60d-baecac0e531c, line 0: Successfully compiled asm.js code (total compilation time 189ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572383103046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXfizD1"
+
+(firefox-esr:25249): Gtk-WARNING **: 00:05:04.943: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:25249): Gtk-WARNING **: 00:05:04.943: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572383110148	Marionette	INFO	Listening on port 46625
+1572383110192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 25292, Chrome_ChildThread] WARNING: pipe error (3): Соединение разорвано другой стороной: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1572383128294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledNaLTU"
+
+(firefox-esr:25407): Gtk-WARNING **: 00:05:30.290: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:25407): Gtk-WARNING **: 00:05:30.290: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572383135119	Marionette	INFO	Listening on port 39173
+1572383135166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/c6498b85-89a4-4b3e-863f-b96f1b3fb07b, line 0: Successfully compiled asm.js code (total compilation time 10ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/c6498b85-89a4-4b3e-863f-b96f1b3fb07b, line 0: Successfully compiled asm.js code (total compilation time 19ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/c6498b85-89a4-4b3e-863f-b96f1b3fb07b, line 0: Successfully compiled asm.js code (total compilation time 104ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 66ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572383352638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQatu0O"
+
+(firefox-esr:25610): Gtk-WARNING **: 00:09:14.781: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:25610): Gtk-WARNING **: 00:09:14.781: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572383359762	Marionette	INFO	Listening on port 38765
+1572383359898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1572383379203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFExDFb"
+
+(firefox-esr:25777): Gtk-WARNING **: 00:09:41.170: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:25777): Gtk-WARNING **: 00:09:41.170: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572383386971	Marionette	INFO	Listening on port 45321
+1572383387044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/8685ba5e-49ba-4ce1-a33a-f6d9ef323d29, line 0: Successfully compiled asm.js code (total compilation time 9ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/8685ba5e-49ba-4ce1-a33a-f6d9ef323d29, line 0: Successfully compiled asm.js code (total compilation time 26ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/8685ba5e-49ba-4ce1-a33a-f6d9ef323d29, line 0: Successfully compiled asm.js code (total compilation time 94ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 86ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572383463072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile416u7x"
+
+(firefox-esr:25933): Gtk-WARNING **: 00:11:05.143: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:25933): Gtk-WARNING **: 00:11:05.143: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572383470525	Marionette	INFO	Listening on port 45267
+1572383470620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 25933, Gecko_IOThread] WARNING: pipe error (59): Соединение разорвано другой стороной: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+[Parent 25933, Gecko_IOThread] WARNING: pipe error (106): Соединение разорвано другой стороной: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1572383487801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0dSlsY"
+
+(firefox-esr:26089): Gtk-WARNING **: 00:11:29.758: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:26089): Gtk-WARNING **: 00:11:29.759: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572383494830	Marionette	INFO	Listening on port 45867
+1572383494943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 55ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/46e7fe16-f4d4-4104-a733-3e4eb6191714, line 0: Successfully compiled asm.js code (total compilation time 14ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/46e7fe16-f4d4-4104-a733-3e4eb6191714, line 0: Successfully compiled asm.js code (total compilation time 26ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/46e7fe16-f4d4-4104-a733-3e4eb6191714, line 0: Successfully compiled asm.js code (total compilation time 123ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+1572383694766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT6xezP"
+
+(firefox-esr:26261): Gtk-WARNING **: 00:14:56.814: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:26261): Gtk-WARNING **: 00:14:56.814: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572383703074	Marionette	INFO	Listening on port 42471
+1572383703174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/PeerConnection.js, line 1813: TypeError: this._dompc._pc is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1572383721567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7S3oZE"
+
+(firefox-esr:26447): Gtk-WARNING **: 00:15:23.617: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox-esr:26447): Gtk-WARNING **: 00:15:23.617: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1572383729242	Marionette	INFO	Listening on port 34771
+1572383729331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/cf100998-8247-4d72-9965-79438387304d, line 0: Successfully compiled asm.js code (total compilation time 8ms; not stored in cache (too small to benefit))
+JavaScript warning: blob:https://mail.protonmail.com/cf100998-8247-4d72-9965-79438387304d, line 0: Successfully compiled asm.js code (total compilation time 26ms; stored in cache)
+JavaScript warning: blob:https://mail.protonmail.com/cf100998-8247-4d72-9965-79438387304d, line 0: Successfully compiled asm.js code (total compilation time 126ms; stored in cache)
+JavaScript warning: https://mail.protonmail.com/9.abed23d93c.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 63ms; stored in cache)
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
